@@ -25,7 +25,7 @@ const Navbar = () => {
             to="/"
             className="flex items-center gap-2 text-xl font-bold text-primary"
           >
-            <img className="h-14 w-14" src={logo} alt="" />
+            <img className="h-12 w-12" src={logo} alt="" />
             Appora
           </Link>
         </div>

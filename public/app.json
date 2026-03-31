@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "image": "https://source.unsplash.com/400x400/?app,mobile",
+    "title": "ChatFlow",
+    "companyName": "Flow Inc.",
+    "description": "Fast and secure messaging app.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://source.unsplash.com/400x400/?music,app",
+    "title": "BeatBox",
+    "companyName": "Sound Ltd.",
+    "description": "Stream music anytime anywhere.",
+    "size": 60,
+    "reviews": 2300,
+    "ratingAvg": 4.7,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1360 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://source.unsplash.com/400x400/?fitness,app",
+    "title": "FitTrack",
+    "companyName": "HealthPro",
+    "description": "Track your fitness journey.",
+    "size": 55,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 390 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://source.unsplash.com/400x400/?game,app",
+    "title": "BattleZone",
+    "companyName": "GameX",
+    "description": "Multiplayer battle game.",
+    "size": 150,
+    "reviews": 5400,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://source.unsplash.com/400x400/?education,app",
+    "title": "Learnify",
+    "companyName": "EduTech",
+    "description": "Learn new skills easily.",
+    "size": 70,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 80000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 625 }
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "https://source.unsplash.com/400x400/?photo,editor",
+    "title": "SnapEdit",
+    "companyName": "PixLab",
+    "description": "Powerful photo editing tools.",
+    "size": 80,
+    "reviews": 2000,
+    "ratingAvg": 4.6,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 920 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://source.unsplash.com/400x400/?food,delivery",
+    "title": "FoodGo",
+    "companyName": "QuickEat",
+    "description": "Order food in minutes.",
+    "size": 65,
+    "reviews": 3400,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://source.unsplash.com/400x400/?travel,app",
+    "title": "TripMate",
+    "companyName": "TravelCo",
+    "description": "Plan your trips easily.",
+    "size": 90,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 60000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 440 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://source.unsplash.com/400x400/?finance,app",
+    "title": "MoneyWise",
+    "companyName": "FinTech Ltd.",
+    "description": "Manage your finances smartly.",
+    "size": 50,
+    "reviews": 1700,
+    "ratingAvg": 4.3,
+    "downloads": 75000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 590 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://source.unsplash.com/400x400/?shopping,app",
+    "title": "ShopEasy",
+    "companyName": "MarketHub",
+    "description": "Best online shopping experience.",
+    "size": 75,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1820 }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://source.unsplash.com/400x400/?video,streaming",
+    "title": "StreamX",
+    "companyName": "MediaHub",
+    "description": "Watch movies & shows.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.7,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2270 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://source.unsplash.com/400x400/?notes,app",
+    "title": "NoteMaster",
+    "companyName": "Prodify",
+    "description": "Organize your notes efficiently.",
+    "size": 30,
+    "reviews": 900,
+    "ratingAvg": 4.1,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://source.unsplash.com/400x400/?weather,app",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "description": "Real-time weather updates.",
+    "size": 25,
+    "reviews": 1400,
+    "ratingAvg": 4.4,
+    "downloads": 85000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://source.unsplash.com/400x400/?calendar,app",
+    "title": "PlanIt",
+    "companyName": "TaskFlow",
+    "description": "Schedule your day easily.",
+    "size": 35,
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 220 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://source.unsplash.com/400x400/?security,app",
+    "title": "SecureX",
+    "companyName": "SafeNet",
+    "description": "Protect your data & privacy.",
+    "size": 40,
+    "reviews": 1800,
+    "ratingAvg": 4.6,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 725 }
+    ]
+  },
+
+  {
+    "id": 16,
+    "image": "https://source.unsplash.com/400x400/?gaming,app",
+    "title": "ArcadeFun",
+    "companyName": "PlayStudio",
+    "description": "Fun mini games collection.",
+    "size": 110,
+    "reviews": 2600,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://source.unsplash.com/400x400/?banking,app",
+    "title": "BankEase",
+    "companyName": "FinServe",
+    "description": "Digital banking made simple.",
+    "size": 70,
+    "reviews": 3200,
+    "ratingAvg": 4.3,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://source.unsplash.com/400x400/?chat,app",
+    "title": "TalkNow",
+    "companyName": "Connectify",
+    "description": "Instant chat with friends.",
+    "size": 48,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 750 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://source.unsplash.com/400x400/?reading,app",
+    "title": "Bookly",
+    "companyName": "ReadTech",
+    "description": "Read books anytime.",
+    "size": 60,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": 70000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 640 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://source.unsplash.com/400x400/?ai,app",
+    "title": "AI Assistant",
+    "companyName": "SmartTech",
+    "description": "Your personal AI helper.",
+    "size": 85,
+    "reviews": 5000,
+    "ratingAvg": 4.8,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3420 }
+    ]
+  }
+]
