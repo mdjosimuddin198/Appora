@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import heroImg from "../../assets/hero.png";
+import StatsSection from "./StatsSection";
 
 const Hero = () => {
   return (
@@ -48,6 +49,7 @@ const Hero = () => {
       <div className="mt-12 flex justify-center relative">
         <img src={heroImg} alt="hero" className=" drop-shadow-xl" />
       </div>
+      <StatsSection />
     </section>
   );
 };

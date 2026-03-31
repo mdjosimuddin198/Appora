@@ -1,13 +1,19 @@
-"use client";
 import React, { useState } from "react";
 import { MdMenu } from "react-icons/md";
 import { BiCross } from "react-icons/bi";
-import logo from "../../assets/logo.png";
+import logo from "../assets/logo.png";
 import { RxCross2 } from "react-icons/rx";
 import { FaGithub } from "react-icons/fa";
+import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
+  const linkStyle = ({ isActive }) =>
+    `px-4 py-2 font-medium ${
+      isActive
+        ? "bg-linear-to-l from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent   rounded"
+        : "text-gray-700 hover:text-[#632EE3]"
+    }`;
 
   return (
     <div className="relative ">
@@ -15,32 +21,40 @@ const Navbar = () => {
       <div className="navbar flex items-center justify-between bg-base-100 px-4 md:px-6 shadow-sm">
         {/* Left */}
         <div className="">
-          <a className="flex items-center gap-2 text-xl font-bold text-primary">
+          <Link
+            to="/"
+            className="flex items-center gap-2 text-xl font-bold text-primary"
+          >
             <img className="h-14 w-14" src={logo} alt="" />
             Appora
-          </a>
+          </Link>
         </div>
 
         {/* Desktop Menu */}
-        <div className="hidden md:flex">
-          <ul className="menu menu-horizontal px-1 gap-2">
-            <li>
-              <a className="text-primary font-semibold">Home</a>
-            </li>
-            <li>
-              <a>Apps</a>
-            </li>
-            <li>
-              <a>Installation</a>
-            </li>
-          </ul>
-        </div>
+
+        <nav className="hidden md:flex  gap-4 p-4">
+          <NavLink to="/" className={linkStyle}>
+            Home
+          </NavLink>
+
+          <NavLink to="/apps" className={linkStyle}>
+            Apps
+          </NavLink>
+
+          <NavLink to="/installation" className={linkStyle}>
+            Installation
+          </NavLink>
+        </nav>
 
         {/* Right */}
         <div className="flex items-center gap-2">
-          <button className="mt-2 btn text-white bg-linear-to-r from-[#632EE3] to-[#9F62F2] hover:opacity-90  rounded-md transition">
+          <a
+            href="https://github.com/mdjosimuddin198/"
+            target="_blank"
+            className="mt-2 btn text-white bg-linear-to-r from-[#632EE3] to-[#9F62F2] hover:opacity-90  rounded-md transition"
+          >
             <FaGithub size={16} /> Contribute
-          </button>
+          </a>
           {/* Hamburger */}
           <button
             onClick={() => setOpen(!open)}

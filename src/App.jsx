@@ -1,7 +1,8 @@
 import React from "react";
 import "./App.css";
-import Navbar from "./components/homepage/Navbar";
-import Hero from "./components/homepage/Hero";
+import { Outlet } from "react-router";
+import Navbar from "./components/Navbar";
+import Footer from "./footer/Footer";
 
 function App() {
   return (
@@ -10,9 +11,11 @@ function App() {
         <Navbar />
       </header>
       <main>
-        <Hero />
+        <Outlet />
       </main>
-      <footer></footer>
+      <footer>
+        <Footer />
+      </footer>
     </>
   );
 }
