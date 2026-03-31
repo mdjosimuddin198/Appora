@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://source.unsplash.com/400x400/?app,mobile",
+    "image": "https://i.pinimg.com/1200x/b0/5c/74/b05c74c6b1cf3f805b589b8535d2ba2d.jpg",
     "title": "ChatFlow",
     "companyName": "Flow Inc.",
     "description": "Fast and secure messaging app.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://source.unsplash.com/400x400/?music,app",
+    "image": "https://i.pinimg.com/736x/0b/65/3f/0b653f6d90d2aa0d532a27bbd3e81f8a.jpg",
     "title": "BeatBox",
     "companyName": "Sound Ltd.",
     "description": "Stream music anytime anywhere.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://source.unsplash.com/400x400/?fitness,app",
+    "image": "https://i.pinimg.com/1200x/43/a3/08/43a308ed01d047430a0091a62d855362.jpg",
     "title": "FitTrack",
     "companyName": "HealthPro",
     "description": "Track your fitness journey.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://source.unsplash.com/400x400/?game,app",
+    "image": "https://i.pinimg.com/736x/57/ef/92/57ef927fa2f02c61b1abd265adaeb21b.jpg",
     "title": "BattleZone",
     "companyName": "GameX",
     "description": "Multiplayer battle game.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://source.unsplash.com/400x400/?education,app",
+    "image": "https://i.pinimg.com/736x/aa/9d/ae/aa9daea97be9c72d1c39aa5dec215b47.jpg",
     "title": "Learnify",
     "companyName": "EduTech",
     "description": "Learn new skills easily.",
@@ -92,7 +92,7 @@
 
   {
     "id": 6,
-    "image": "https://source.unsplash.com/400x400/?photo,editor",
+    "image": "https://i.pinimg.com/1200x/86/26/b7/8626b79b54a6175e622078353bb43a30.jpg",
     "title": "SnapEdit",
     "companyName": "PixLab",
     "description": "Powerful photo editing tools.",
@@ -110,7 +110,7 @@
   },
   {
     "id": 7,
-    "image": "https://source.unsplash.com/400x400/?food,delivery",
+    "image": "https://i.pinimg.com/736x/0d/ce/84/0dce84716b68b38b2bc731246d6a2614.jpg",
     "title": "FoodGo",
     "companyName": "QuickEat",
     "description": "Order food in minutes.",
@@ -128,7 +128,7 @@
   },
   {
     "id": 8,
-    "image": "https://source.unsplash.com/400x400/?travel,app",
+    "image": "https://i.pinimg.com/736x/bb/a1/aa/bba1aa4b35a932c1301de0e004dc5882.jpg",
     "title": "TripMate",
     "companyName": "TravelCo",
     "description": "Plan your trips easily.",
@@ -146,7 +146,7 @@
   },
   {
     "id": 9,
-    "image": "https://source.unsplash.com/400x400/?finance,app",
+    "image": "https://i.pinimg.com/736x/c6/2a/fa/c62afae8f57d1bc8197325f66dd6c4b3.jpg",
     "title": "MoneyWise",
     "companyName": "FinTech Ltd.",
     "description": "Manage your finances smartly.",
@@ -164,7 +164,7 @@
   },
   {
     "id": 10,
-    "image": "https://source.unsplash.com/400x400/?shopping,app",
+    "image": "https://i.pinimg.com/736x/c4/e5/28/c4e5282b9c9c3f188fcf3df08ae6f1c6.jpg",
     "title": "ShopEasy",
     "companyName": "MarketHub",
     "description": "Best online shopping experience.",
@@ -183,7 +183,7 @@
 
   {
     "id": 11,
-    "image": "https://source.unsplash.com/400x400/?video,streaming",
+    "image": "https://i.pinimg.com/1200x/24/f9/1d/24f91df731f7375d03f368cf9ecc0016.jpg",
     "title": "StreamX",
     "companyName": "MediaHub",
     "description": "Watch movies & shows.",
@@ -201,7 +201,7 @@
   },
   {
     "id": 12,
-    "image": "https://source.unsplash.com/400x400/?notes,app",
+    "image": "https://i.pinimg.com/736x/de/1a/29/de1a2997bb53cbf32cf90e1b2cc4b65d.jpg",
     "title": "NoteMaster",
     "companyName": "Prodify",
     "description": "Organize your notes efficiently.",
@@ -219,7 +219,7 @@
   },
   {
     "id": 13,
-    "image": "https://source.unsplash.com/400x400/?weather,app",
+    "image": "https://i.pinimg.com/736x/5c/9b/d3/5c9bd32dadc67ed9dc9964c53417c42c.jpg",
     "title": "WeatherNow",
     "companyName": "SkyTech",
     "description": "Real-time weather updates.",
@@ -237,7 +237,7 @@
   },
   {
     "id": 14,
-    "image": "https://source.unsplash.com/400x400/?calendar,app",
+    "image": "https://i.pinimg.com/control1/1200x/40/76/fc/4076fcfe75ac91635549cda45a12fe6a.jpg",
     "title": "PlanIt",
     "companyName": "TaskFlow",
     "description": "Schedule your day easily.",
@@ -255,7 +255,7 @@
   },
   {
     "id": 15,
-    "image": "https://source.unsplash.com/400x400/?security,app",
+    "image": "https://i.pinimg.com/1200x/68/90/1f/68901f537a558b237c938aebd73adab4.jpg",
     "title": "SecureX",
     "companyName": "SafeNet",
     "description": "Protect your data & privacy.",
@@ -274,7 +274,7 @@
 
   {
     "id": 16,
-    "image": "https://source.unsplash.com/400x400/?gaming,app",
+    "image": "https://i.pinimg.com/1200x/85/3d/36/853d36d921bdcb3f9b776adb3d39519e.jpg",
     "title": "ArcadeFun",
     "companyName": "PlayStudio",
     "description": "Fun mini games collection.",
@@ -292,7 +292,7 @@
   },
   {
     "id": 17,
-    "image": "https://source.unsplash.com/400x400/?banking,app",
+    "image": "https://i.pinimg.com/1200x/7a/68/98/7a6898f73cd7a6aace48d3358810b49b.jpg",
     "title": "BankEase",
     "companyName": "FinServe",
     "description": "Digital banking made simple.",
@@ -310,7 +310,7 @@
   },
   {
     "id": 18,
-    "image": "https://source.unsplash.com/400x400/?chat,app",
+    "image": "https://i.pinimg.com/736x/a7/5d/eb/a75debb3415e6c48e443cb22e316068d.jpg",
     "title": "TalkNow",
     "companyName": "Connectify",
     "description": "Instant chat with friends.",
@@ -328,7 +328,7 @@
   },
   {
     "id": 19,
-    "image": "https://source.unsplash.com/400x400/?reading,app",
+    "image": "https://i.pinimg.com/736x/74/21/6f/74216f866e43ba06258f1843a6610c62.jpg",
     "title": "Bookly",
     "companyName": "ReadTech",
     "description": "Read books anytime.",
@@ -346,7 +346,7 @@
   },
   {
     "id": 20,
-    "image": "https://source.unsplash.com/400x400/?ai,app",
+    "image": "https://i.pinimg.com/736x/00/e0/69/00e06946bf4daf6d759854aca8ab8ca8.jpg",
     "title": "AI Assistant",
     "companyName": "SmartTech",
     "description": "Your personal AI helper.",

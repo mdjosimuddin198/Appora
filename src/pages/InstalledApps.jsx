@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { FaDownload, FaStar } from "react-icons/fa";
+import { Link } from "react-router";
 import { toast } from "react-toastify";
+import appError from "../assets/App-Error.png";
 
 export default function InstalledApps() {
   const [apps, setApps] = useState([]);
@@ -97,8 +99,18 @@ export default function InstalledApps() {
 
       {/* Empty State */}
       {apps.length === 0 && (
-        <div className="text-center py-20 text-gray-500">
-          No installed apps found 😢
+        <div className="flex items-center flex-col space-y-1  justify-center">
+          <img src={appError} alt="" />
+          <h2 className="text-3xl font-bold">
+            OPPS!! No installed apps found!
+          </h2>
+
+          <Link
+            to="/apps"
+            className=" btn text-white bg-linear-to-r from-[#632EE3] to-[#9F62F2] hover:opacity-90  rounded-md transition"
+          >
+            Insatll Apps
+          </Link>
         </div>
       )}
     </div>
